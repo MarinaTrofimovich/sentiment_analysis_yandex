@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Sentiment Demo</title>
+        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    </head>
+    <body>
+        <div class="container">
+            <form action="{{ url_for('index_page') }}" method=post>
+                <div class="form-group">
+                <dl>
+                    <dt align="center", class="form-control" style = "font-family:georgia,garamond,serif;font-size:28px;">Please, write the review on smartphone below (in russian):<br><br>
+                    <dd align="center"><textarea class="form-control" name=text rows=10 cols=60 style="border:solid 3px {{color}}; font-size: 20px;">{{ text }}</textarea>
+                    <br> <br>
+                    <dd align="center"><input class="btn btn-info" type=submit value="Predict">
+                </dl>
+                </div>
+            </form>
+            
+            <br>
+            <div class="form-group"></div>
+                <p align="center", class="form-control" style = "font-family:georgia,garamond,serif;font-size:28px;">Sentiment prediction:</p>
+                <p align="center", class="form-control" style = "font-family:georgia,garamond,serif;font-size:28px; color:{{color}};">{{ prediction_message }}</p>
+            </div>
+        </div>
+    </body>
+</html>
