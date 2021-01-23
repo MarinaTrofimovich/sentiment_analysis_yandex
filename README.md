@@ -44,10 +44,12 @@ For demonstrating the work of the model the demo-site on Flask was created.
 ## How to run?
 
 1. install [flask](https://flask.palletsprojects.com/en/1.1.x/)
-
+```
+$ pip install flask
+```
 2. run demo: 
 ```
-python demo.py
+$ python demo.py
 ```
 3. open http://0.0.0.0:80/.
 
