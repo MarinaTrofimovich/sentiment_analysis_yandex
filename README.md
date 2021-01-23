@@ -31,10 +31,32 @@ train.json - scraped data form the Yandex market
 
 test.csv - customer's reviews
 
-sentiment_classifier.py
-sent_class.pkl
-demo.py
+scraping_of_data_from_Yandex_market.ipynb - jupyter notebook for the web scraping
+
+sentiment_analysis_customer_reviews.ipynb - jupyter notebook with the data preparation and training the model
+
+sentiment_classifier.py, demo.py - elements of the Flask-project
+
+sent_class.pkl - the prediction model
+
+templates folder contains index.html file with the demo-html-page
 
 
 
 ## How to run?
+
+1. install flask;
+
+2. save locally the current folder;
+
+3. open Terminal (command line);
+
+4. go to the saved folder;
+
+5. run demo:
+$ python demo.py
+
+6. open http://0.0.0.0:80/.
+(If the application is not running by this URL, check the Terminal.
+In most cases the default port might be busy, therefore follow
+instructions in Terminal.)
