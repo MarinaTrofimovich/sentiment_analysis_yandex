@@ -28,7 +28,7 @@ The quality of the model on customer's data is 95.5%.
 
 <img align="center" width="700" height="500" src="/images/Leaderboard.png" />
 
-Screenshots of the client facing API you can see below.
+The screenshots of the client facing API you can see below.
 
 
 <table><tr>
