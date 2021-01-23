@@ -27,19 +27,19 @@ For demonstrating the work of the model the demo-site on Flask was created.
 
 ## Content
 
-- train.json - scraped data form the Yandex market
+- ***train.json*** - scraped data form the Yandex market
 
-- test.csv - customer's reviews
+- ***test.csv*** - customer's reviews
 
-- scraping_of_data_from_Yandex_market.ipynb - jupyter notebook for the web scraping
+- ***scraping_of_data_from_Yandex_market.ipynb*** - jupyter notebook for the web scraping
 
-- sentiment_analysis_customer_reviews.ipynb - jupyter notebook with the data preparation and training the model
+- ***sentiment_analysis_customer_reviews.ipynb*** - jupyter notebook with the data preparation and training the model
 
-- sentiment_classifier.py, demo.py - elements of the Flask-project
+- ***sentiment_classifier.py, demo.py*** - elements of the Flask-project
 
-- sent_class.pkl - the prediction model
+- ***sent_class.pkl*** - the prediction model
 
-- templates folder contains index.html file with the demo-html-page
+- ***templates folder*** contains index.html file with the demo-html-page
 
 
 
