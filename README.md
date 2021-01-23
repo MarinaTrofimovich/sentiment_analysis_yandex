@@ -16,7 +16,12 @@
 
 ## Tools
 
-[Selenium WebDriver](https://chromedriver.storage.googleapis.com/index.html?path=2.42/), BeautifulSoap, sklearn, pickle, joblib, pandas, seaborn, nltk, json, flask.
+***Python version:*** 3.8.3
+
+***Packages:*** selenium, BeautifulSoap, sklearn, pickle, joblib, pandas, seaborn, nltk, json, flask.
+
+***For Web Framework Requirement:*** ```pip install -r requirements.txt```.
+
 
 ## Discription
 
