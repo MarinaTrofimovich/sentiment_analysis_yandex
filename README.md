@@ -45,7 +45,7 @@ For demonstrating the work of the model the demo-site on Flask was created.
 
 ## How to run?
 
-1. install flask
+1. install [flask](https://flask.palletsprojects.com/en/1.1.x/)
 
 2. run demo: 
 ```
