@@ -18,7 +18,7 @@
 
 [Selenium WebDriver](https://chromedriver.storage.googleapis.com/index.html?path=2.42/), BeautifulSoap, sklearn, pickle, joblib, pandas, seaborn, nltk.
 
-
+## Discription
 
 This project was implemented as part of the 6th online course ["Data analysis project"](https://www.coursera.org/learn/data-analysis-project) of the specialization ["Machine learning and data analysis"](https://www.coursera.org/specializations/machine-learning-data-analysis).
 
@@ -36,26 +36,7 @@ For demonstrating the work of the model the demo-site on Flask was created.
 <td> <img align="center" width="600" height="300" src="/images/Screenshot2.png" /> </td>
 </tr></table>
 
-
-## Content
-
-- ***train.json*** - scraped data form the Yandex market
-
-- ***test.csv*** - customer's reviews
-
-- ***scraping_of_data_from_Yandex_market.ipynb*** - jupyter notebook for the web scraping
-
-- ***sentiment_analysis_customer_reviews.ipynb*** - jupyter notebook with the data preparation and training the model
-
-- ***sentiment_classifier.py, demo.py*** - elements of the Flask-project
-
-- ***sent_class.pkl*** - the prediction model
-
-- ***templates folder*** contains index.html file with the demo-html-page
-
-
-
-## How to run?
+## How to run
 
 1. install [flask](https://flask.palletsprojects.com/en/1.1.x/)
 ```
