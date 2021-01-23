@@ -1,5 +1,7 @@
 # sentiment_analysis_yandex
 
+# Sentiment analysis for the customer's task
+
 ## Description
 
 A customer needs a solution of the problem of analyzing the sentiment of smartphone reviews. He wants to evaluate the possible performance of such an algorithm on a small test sample (only 100 reviews, without labels). No more data is provided.
