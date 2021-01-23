@@ -18,9 +18,12 @@ The quality of the model on customer's data is 95.5%.
 
 For demonstrating the work of the model the demo-site on Flask was created.
 
-<img align="center" width="700" height="500" src="/images/Screenshot1.png" />
-<img align="center" width="700" height="500" src="/images/Screenshot2.png" />
-<img align="center" width="700" height="500" src="/images/Screenshot3.png" />
+
+<table><tr>
+<td> <img align="center" width="600" height="300" src="/images/Screenshot1.png" /> </td>
+<td> <img align="center" width="600" height="300" src="/images/Screenshot2.png" /> </td>
+<td> <img align="center" width="600" height="300" src="/images/Screenshot3.png" /> </td>
+</tr></table>
 
 
 ## Contetnt
