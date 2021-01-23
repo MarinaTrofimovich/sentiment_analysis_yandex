@@ -10,10 +10,17 @@ This project was implemented as part of the 6th online course ["Data analysis pr
 
 The quality assessment of the trained algorithm is checked using an automatic system in the [Kaggle competition](https://www.kaggle.com/c/morecomplicatedsentiment).
 
-Over 23000 reviews and their scores were collected from the Yandex market to train the model. After data cleaning and preparation part the algorithm was trained on more than 6000 reviews. The quality of the model on customer's data is 95.5%. 
+Over 23000 reviews and their scores were collected from the Yandex market to train the model. After data cleaning and preparation part the algorithm was trained on more than 6000 reviews.
 
+The quality of the model on customer's data is 95.5%. 
+
+<img align="center" width="700" height="500" src="/images/Leaderboard.png" />
 
 For demonstrating the work of the model the demo-site on Flask was created.
+
+<img align="center" width="700" height="500" src="/images/Leaderboard.png" />
+<img align="center" width="700" height="500" src="/images/Leaderboard.png" />
+<img align="center" width="700" height="500" src="/images/Leaderboard.png" />
 
 ## Contetnt
 
