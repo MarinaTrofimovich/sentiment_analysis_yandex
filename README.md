@@ -16,7 +16,7 @@
 
 ## Tools
 
-***Python version:*** 3.8.3
+***Python version:*** 3.8.3.
 
 ***Packages:*** selenium, BeautifulSoap, sklearn, pickle, joblib, pandas, seaborn, nltk, json, flask.
 
