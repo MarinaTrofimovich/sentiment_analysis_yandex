@@ -16,7 +16,7 @@
 
 ## Tools
 
-[Selenium WebDriver](https://chromedriver.storage.googleapis.com/index.html?path=2.42/), BeautifulSoap, sklearn, pickle, joblib, pandas, seaborn, nltk.
+[Selenium WebDriver](https://chromedriver.storage.googleapis.com/index.html?path=2.42/), BeautifulSoap, sklearn, pickle, joblib, pandas, seaborn, nltk, json, flask.
 
 ## Discription
 
