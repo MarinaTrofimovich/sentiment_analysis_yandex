@@ -2,7 +2,7 @@
 
 # Sentiment analysis for the customer's task
 
-## Description
+## Overview
 
 - Created a tool that predict the sentiment of smartphone's review.
 
@@ -13,6 +13,11 @@
 - Optimized pepiline "CountVectorizer(), TfidfTransformer(), LinearSVC()" using RandomizedSearchCV to reach the best model.
 
 - Built a client facing API using Flask.
+
+## Tools
+
+[Selenium WebDriver](https://chromedriver.storage.googleapis.com/index.html?path=2.42/), BeautifulSoap, sklearn, pickle, joblib, pandas, seaborn, nltk.
+
 
 
 This project was implemented as part of the 6th online course ["Data analysis project"](https://www.coursera.org/learn/data-analysis-project) of the specialization ["Machine learning and data analysis"](https://www.coursera.org/specializations/machine-learning-data-analysis).
