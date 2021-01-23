@@ -4,13 +4,20 @@
 
 ## Description
 
-A customer needs a solution of the problem of analyzing the sentiment of smartphone reviews. He wants to evaluate the possible performance of such an algorithm on a small test sample (only 100 reviews, without labels). No more data is provided.
+- Created a tool that predict the sentiment of smartphone's review.
+
+- Scraped over 23000 reviews on smartphones from the Yandex market using Python and Selenium.
+
+- Performed the data cleaning and selection and found the best way of labeling the data (final number of reviews 6500+).
+
+- Optimized pepiline "CountVectorizer(), TfidfTransformer(), LinearSVC()" using RandomizedSearchCV to reach the best model.
+
+- Built a client facing API using Flask.
+
 
 This project was implemented as part of the 6th online course ["Data analysis project"](https://www.coursera.org/learn/data-analysis-project) of the specialization ["Machine learning and data analysis"](https://www.coursera.org/specializations/machine-learning-data-analysis).
 
 The quality assessment of the trained algorithm is checked using an automatic system in the [Kaggle competition](https://www.kaggle.com/c/morecomplicatedsentiment).
-
-Over 23000 reviews and their scores were collected from the Yandex market as a training sample. After data cleaning, data selection and experimenting with setting the problem (labeling positive and negative examples) the algorithm was trained on more than 6000 reviews.
 
 The quality of the model on customer's data is 95.5%. 
 
