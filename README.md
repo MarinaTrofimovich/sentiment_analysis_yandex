@@ -27,6 +27,14 @@ For demonstrating the work of the model the demo-site on Flask was created.
 
 ## Content
 
+train.json - scraped data form the Yandex market
+
+test.csv - customer's reviews
+
+sentiment_classifier.py
+sent_class.pkl
+demo.py
+
 
 
 ## How to run?
