@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Created a tool that predict the sentiment of smartphone's review.
+- Created a tool that predicts the sentiment of smartphone's review.
 
 - Scraped over 23000 reviews on smartphones from the Yandex market using Python and Selenium.
 
